@@ -1,13 +1,11 @@
-<?php
-
-$hello_world = 'Hellow WOrld , I\'m from variable';
-
-echo $hello_world;
-
-echo '<br/>';
-
-echo 'Hellow saya ditulis dari filezilla lho';
-
-echo '<br/>';
-
-echo 'Kita sudah melakukan sync SFTP plugin package dari sublime';
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tutorial PHP-Beginner</title>
+</head>
+<body>
+	<ul>
+		<li><a href="operator_matematika.php">Operator Matematika</a></li>
+	</ul>
+</body>
+</html>
