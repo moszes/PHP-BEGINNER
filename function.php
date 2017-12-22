@@ -15,7 +15,7 @@ $tambah = tambah();
 // output tambah
 echo 'number1 + number2 = ' . $tambah . '<br>';
 
-// di dalam function kurang kita akan belajar menambahkan angka
+// di dalam function kurang kita akan belajar mengurangi angka
 function kurang()
 {
 	$number3 = 1;
@@ -30,7 +30,7 @@ $kurang = kurang();
 // output kurang
 echo 'number3 - number4 = ' . $kurang . '<br>';
 
-// di dalam function kali kita akan belajar menambahkan angka
+// di dalam function kali kita akan belajar mengkalikan angka
 function kali()
 {
 	$number5 = 3;
@@ -45,7 +45,7 @@ $kali = kali();
 // output kali
 echo 'number5 * number6 = ' . $kali . '<br>';
 
-// di dalam function bagi kita akan belajar menambahkan angka
+// di dalam function bagi kita akan belajar membagikan angka
 function bagi()
 {
 	$number7 = 3;
@@ -60,7 +60,7 @@ $bagi = bagi();
 // output bagi
 echo 'number7 / number8 = ' . $bagi . '<br>';
 
-// di dalam function modulus kita akan belajar menambahkan angka
+// di dalam function modulus kita akan belajar modulus angka
 function modulus()
 {
 	$number9 = 10;
