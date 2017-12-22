@@ -6,6 +6,7 @@
 <body>
 	<ul>
 		<li><a href="operator_matematika.php">Operator Matematika</a></li>
+		<li><a href="comment.php">Operator Matematika</a></li>
 	</ul>
 </body>
 </html>
